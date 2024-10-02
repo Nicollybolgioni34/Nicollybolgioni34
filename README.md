@@ -3,7 +3,7 @@
 
 Estou estudando no Alura
 
-faz o L
+
 
 Estou me desenvolvendo no Javascript
 
